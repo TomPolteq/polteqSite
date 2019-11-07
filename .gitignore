@@ -1,0 +1,9 @@
+node_modules
+/errorShots/**
+/screenshots/diff/**
+/screenshots/screen/**
+/test/reports/**
+/allure-results/**
+/wdio.conf.smoketestLocal.js
+/wdio.conf.dev.js
+.idea
